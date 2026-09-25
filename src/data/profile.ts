@@ -8,7 +8,7 @@ export const profileData: ProfileData = {
   location: "Hyderabad, Telangana, India",
   email: "thosardhananjay25@gmail.com",
   phone: "+91 8390833406",
-  websiteUrl: "https://dhananjaythosar.dev",
+  websiteUrl: "https://portfolio-nine-taupe-rdx74t6kko.vercel.app",
   resumePath: "/resume/dhananjay-thosar-resume.pdf",
   photoUrl: "/images/dhananjay-thosar.png",
   valueProposition:

@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://dhananjaythosar.dev/sitemap.xml",
+    sitemap: "https://portfolio-nine-taupe-rdx74t6kko.vercel.app/sitemap.xml",
   };
 }
